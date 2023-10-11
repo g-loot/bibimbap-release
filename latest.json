@@ -1,1 +1,11 @@
-null
+{
+  "version": "0.0.52",
+  "notes": "",
+  "pub_date": "2023-10-09T19:43:36.868Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYXNrR0JIZXNzQ3F5TXZjRDVkOVpHM1N1ZXNvcmJqWDNZVUVyL0dCSW1OdEdCMjFJWlQ0WHFTWFRQdVhZS3dUeWI4RG53c1kwUFY2ZVNFS2RMb1N4Z2ZnMXNuUGxBZFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk2ODgwNjA3CWZpbGU6U3RyeWRhXzAuMC41Ml94NjRfZW4tVVMubXNpLnppcAp0MVVkNHh5alU5V2hsTkdJK2pVWTJPVlNRcEgzcGJuRVNoZ0hFSkhDajZjT25zbWZWdmtaSUlVbWRQYTVrRXNscUJkYlQwY1FtWDdycnR3QzFwZTFDZz09Cg==",
+      "url": "https://github.com/g-loot/bibimbap-release/releases/latest/download/Stryda_0.0.52_x64_en-US.msi.zip"
+    }
+  }
+}
